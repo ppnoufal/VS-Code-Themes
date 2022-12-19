@@ -11,18 +11,13 @@ Install the theme from marketplace
 4. Select "SpaceBlack" as your color theme, bang!!!.
 ```
 ## Git Repo
-
-```url
+```
 https://github.com/ppnoufal/VS-Code-Themes/tree/main/spaceblack
 ```
-
 ## Screenshots
-
-![Python](screenshots/python.PNG)
-
-![Javascript](screenshots/javascript.PNG)
-
-
+```
+https://github.com/ppnoufal/VS-Code-Themes/tree/main/spaceblack/screenshots
+```
 ## Override this theme
 
 To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme. 
