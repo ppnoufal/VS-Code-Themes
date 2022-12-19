@@ -1,16 +1,32 @@
-# spaceblack README
+# SpaceBlack Dark theme
 
-## Working with Markdown
+## Installation
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Install the theme from marketplace
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+```bash
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com
+2. Search for 'spaceblack'
+3. Click on the "Install" button.
+4. Select "SpaceBlack" as your color theme, bang!!!.
+```
+## Git Repo
 
-## For more information
+```url
+https://github.com/ppnoufal/VS-Code-Themes/tree/main/spaceblack
+```
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshots
 
-**Enjoy!**
+![Python](screenshots/python.PNG)
+
+![Javascript](screenshots/javascript.PNG)
+
+
+## Override this theme
+
+To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme. 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
