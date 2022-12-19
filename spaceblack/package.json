@@ -1,0 +1,31 @@
+{
+  "name": "spaceblack",
+  "displayName": "SpaceBlack",
+  "description": "Dark theme forked from sublime material spaceblack theme.",
+  "version": "1.0.0",
+  "icon": "avatar.png",
+  "publisher": "noufalpp",
+  "keywords": [
+    "theme",
+    "noufal",
+    "space",
+    "black",
+    "spaceblack",
+    "space black"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SpaceBlack",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SpaceBlack-color-theme.json"
+      }
+    ]
+  }
+}
