@@ -4,7 +4,12 @@
   "description": "Hyped dark theme with purple accent",
   "version": "1.0.0",
   "publisher": "noufalpp",
+  "license": "MIT",
   "icon": "avatar.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppnoufal/VS-Code-Themes"
+  },
   "keywords": [
     "hyped",
     "hypeddown",
