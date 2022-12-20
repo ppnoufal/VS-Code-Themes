@@ -1,0 +1,31 @@
+{
+  "name": "hypeddown",
+  "displayName": "HypedDown",
+  "description": "Hyped dark theme with purple accent",
+  "version": "1.0.0",
+  "publisher": "noufalpp",
+  "icon": "avatar.png",
+  "keywords": [
+    "hyped",
+    "hypeddown",
+    "hyped down",
+    "down",
+    "dark",
+    "theme"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "HypedDown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/HypedDown-color-theme.json"
+      }
+    ]
+  }
+}
