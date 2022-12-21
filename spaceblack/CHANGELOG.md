@@ -17,3 +17,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - "statusBarItem.remoteBackground": "#BB80B0"
 - "editor.findMatchBorder": "#42557b"
 
+## v1.2.0
+
+- "editor.lineHighlightBorder": "#2C333B"

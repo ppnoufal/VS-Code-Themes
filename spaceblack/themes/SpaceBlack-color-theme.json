@@ -21,7 +21,7 @@
 		"editor.hoverHighlightBackground": "#202020",
 		"editor.inactiveSelectionBackground": "#2C333B",
 		"editor.lineHighlightBackground": "#2C333B",
-		"editor.lineHighlightBorder": "#303030",
+		"editor.lineHighlightBorder": "#2C333B",
 		"editor.rangeHighlightBackground": "#27292b",
 		"editor.selectionBackground": "#2C333B",
 		"editor.selectionHighlightBackground": "#27292b",
