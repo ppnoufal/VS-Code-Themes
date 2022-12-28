@@ -20,3 +20,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## v1.2.0
 
 - "editor.lineHighlightBorder": "#2C333B"
+
+## v1.3.0
+
+- Changed HEX Color for invalid line: 
+- Previous : "#1E2229"
+- Current : "#647187"
