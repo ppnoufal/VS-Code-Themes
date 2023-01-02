@@ -26,7 +26,3 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed HEX Color for invalid line: 
 - Previous : "#1E2229"
 - Current : "#647187"
-
-## v1.4.0
-
-- Added: "panel.background": "#111111"
