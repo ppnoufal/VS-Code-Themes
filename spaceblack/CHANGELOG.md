@@ -26,3 +26,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Changed HEX Color for invalid line: 
 - Previous : "#1E2229"
 - Current : "#647187"
+
+## v.1.4.0
+
+- Backward compatible with vscode v1.73.0
