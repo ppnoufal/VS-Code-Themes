@@ -30,3 +30,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## v.1.4.0
 
 - Backward compatible with vscode v1.73.0
+
+## v1.5.0
+
+- "scrollbarSlider.background": "#d2e0ff2f"
+- "scrollbarSlider.hoverBackground": "#5b646c"
