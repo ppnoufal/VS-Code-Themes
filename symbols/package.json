@@ -1,0 +1,80 @@
+{
+  "name": "symbols",
+  "displayName": "Symbols",
+  "description": "A simple file icon theme for VS Code forked from Symbols from misolori",
+  "version": "0.0.12",
+  "publisher": "noufalpp",
+  "icon": "symbols.png",
+  "preview": true,
+  "main": "./src/extension.js",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "file-icon-theme",
+    "file icons"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misolori/vscode-symbols.git"
+  },
+  "bugs": {
+    "url": "https://github.com/misolori/vscode-symbols/issues"
+  },
+  "author": {
+    "name": "Miguel Solorio"
+  },
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    },
+    "virtualWorkspaces": true
+  },
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "symbols",
+        "label": "Symbol Icons",
+        "path": "./src/symbol-icon-theme.modified.json",
+        "_watch": true
+      }
+    ],
+    "configuration": {
+      "type": "object",
+      "title": "Symbols",
+      "properties": {
+        "symbols.hidesExplorerArrows": {
+          "type": "boolean",
+          "default": false,
+          "description": "Hide arrow icons in the explorer section."
+        },
+        "symbols.folders.associations": {
+          "type": "object",
+          "default": {},
+          "description": "With this configuration can customize the folder icons."
+        },
+        "symbols.files.associations": {
+          "type": "object",
+          "default": {},
+          "description": "With this configuration can customize the files icons."
+        }
+      }
+    }
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.70.0",
+    "release-it": "^15.3.0"
+  }
+}
