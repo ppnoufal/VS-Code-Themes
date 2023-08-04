@@ -35,3 +35,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - "scrollbarSlider.background": "#d2e0ff2f"
 - "scrollbarSlider.hoverBackground": "#5b646c"
+
+## v1.6.0
+
+- "string.quoted.docstring.multi.python",
+- "string.quoted.docstring.multi.python punctuation.definition.string.begin.python",
+- "string.quoted.docstring.multi.python punctuation.definition.string.end.python",
+- "string.quoted.docstring.multi.python constant.character.escape.python"
+- "foreground": "#65737e"

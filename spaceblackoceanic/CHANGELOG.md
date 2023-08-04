@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## v1.0.0
 
 - Initial release
+
+## v1.1.0
+
+- "string.quoted.docstring.multi.python",
+- "string.quoted.docstring.multi.python punctuation.definition.string.begin.python",
+- "string.quoted.docstring.multi.python punctuation.definition.string.end.python",
+- "string.quoted.docstring.multi.python constant.character.escape.python"
+- "foreground": "#65737e"

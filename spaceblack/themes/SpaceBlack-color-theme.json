@@ -44,7 +44,7 @@
 		"editorGutter.background": "#1A1D23",
 		"editorHoverWidget.background": "#111111",
 		"editorHoverWidget.border": "#27292b",
-		"editorIndentGuide.background": "#2f2f2f",
+		"editorIndentGuide.background1": "#2f2f2f",
 		"editorLineNumber.activeForeground": "#e6e6e6",
 		"editorLineNumber.foreground": "#606b76",
 		"editorLink.activeForeground": "#999999",
@@ -166,7 +166,11 @@
 			"name": "Comments",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
+				"string.quoted.docstring.multi.python",
+				"string.quoted.docstring.multi.python punctuation.definition.string.begin.python",
+				"string.quoted.docstring.multi.python punctuation.definition.string.end.python",
+				"string.quoted.docstring.multi.python constant.character.escape.python"
 			],
 			"settings": {
 				"foreground": "#65737e"
