@@ -1,0 +1,37 @@
+{
+  "name": "spaceblackoceanic",
+  "displayName": "SpaceBlackOceanic",
+  "description": "Dark theme forked from sublime material sapceblack oceanic.",
+  "version": "1.0.0",
+  "publisher": "noufalpp",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "avatar.png",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "noufal",
+    "space",
+    "black",
+    "spaceblack",
+    "space black",
+    "oceanic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppnoufal/VS-Code-Themes"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "SpaceBlack Oceanic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SpaceBlack Oceanic-color-theme.json"
+      }
+    ]
+  }
+}
