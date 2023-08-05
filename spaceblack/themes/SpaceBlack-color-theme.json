@@ -10,6 +10,7 @@
 		"activityBar.foreground": "#d7dae0",
 		"button.background": "#27292b",
 		"button.foreground": "#e6e6e6",
+		"checkbox.border": "#404754",
 		"dropdown.background": "#111111",
 		"dropdown.border": "#111111",
 		"dropdown.foreground": "#e6e6e6",

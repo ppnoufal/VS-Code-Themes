@@ -43,3 +43,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - "string.quoted.docstring.multi.python punctuation.definition.string.end.python",
 - "string.quoted.docstring.multi.python constant.character.escape.python"
 - "foreground": "#65737e"
+
+## 1.7.0
+
+- "checkbox.border": "#404754"

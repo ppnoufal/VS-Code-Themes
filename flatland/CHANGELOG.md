@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## v1.1.0
 
 - Commments: "#65737e"
+
+## v1.2.0
+
+- "checkbox.border": "#404754"
