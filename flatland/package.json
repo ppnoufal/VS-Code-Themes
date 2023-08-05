@@ -1,0 +1,35 @@
+{
+  "name": "flatland",
+  "displayName": "Flatland",
+  "description": "Dark theme forked from Sublime flatland dark.",
+  "version": "1.0.0",
+  "publisher": "noufalpp",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "avatar.png",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "noufal",
+    "flatland",
+    "material flatland",
+    "material"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppnoufal/VS-Code-Themes"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flatland Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Flatland Dark-color-theme.json"
+      }
+    ]
+  }
+}
