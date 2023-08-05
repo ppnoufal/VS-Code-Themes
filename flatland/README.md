@@ -6,9 +6,9 @@ Install the theme from marketplace
 
 ```bash
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com
-2. Search for 'spaceblack'
+2. Search for 'flatland'
 3. Click on the "Install" button.
-4. Select "SpaceBlack" as your color theme, bang!!!.
+4. Select "Flatland" as your color theme, bang!!!.
 ```
 ## Git Repo
 ```
